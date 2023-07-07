@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Simple VitePress Site"
   text: "Training Page for Cloud Computing Course"
-  tagline: My great project tagline
+  tagline: My great project tagline - changed by multiple instances of Mathias
   actions:
     - theme: brand
       text: Markdown Examples
