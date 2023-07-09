@@ -18,7 +18,7 @@ features:
   - title: Feature A
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Martin was here!
   - title: Feature C
     details: edith von mat@home, freitag nammi, zu heiss.
 ---
